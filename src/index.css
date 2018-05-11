@@ -1,0 +1,31 @@
+body {
+
+background-repeat: no-repeat;
+background-position: center center;
+background-size: cover;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-color: #FAFAFA;
+font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  padding-top: 10px;
+}
+
+.result {
+
+  margin: 0 auto;
+}
+
+.draw {
+  color: white;
+}
+
+.resetdiv {
+  padding: 15px;
+}
+
+img {
+background-color: #ffffff !important;
+}
